@@ -1,3 +1,6 @@
+201001:
+add [connect_c]
+
 200928:
 add [repulsion(rect)]
 
