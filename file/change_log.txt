@@ -1,0 +1,36 @@
+you need reinstall/retarget "database.zip" file to open new project;
+if there is a project that doesn't work,please let me know on forum,thank you;
+https://www.c4dcafe.com/ipb/forums/topic/112112-some-references-for-scene-nodes/
+
+
+201008:
+add [ex_201008]
+
+201007:
+add [plexus_like]
+
+201006:
+add [voronoi_2d_manhattan]
+
+201005:
+add [cloth_dynamic_e]
+
+201004:
+add [spline_dynamic_m]
+
+201001:
+add [connect_c]
+
+200928:
+add [repulsion(rect)]
+
+200927：
+add [circuit]
+
+200926：
+rebuild [repulsion]
+
+200925:
+add [reflect_line]
+
+:)
