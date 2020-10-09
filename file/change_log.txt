@@ -2,6 +2,8 @@ you need reinstall/retarget "database.zip" file to open new project;
 if there is a project that doesn't work,please let me know on forum,thank you;
 https://www.c4dcafe.com/ipb/forums/topic/112112-some-references-for-scene-nodes/
 
+201010:
+add [kagome_weaving]
 
 201008:
 add [ex_201008]
