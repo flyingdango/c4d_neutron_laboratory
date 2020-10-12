@@ -68,3 +68,10 @@ curl_noise,"CurlNoise
 Tracer(T)
 InBox
 PushApart"
+surface_climbing_c,"Tracer(T)
+SpaceGridSet
+SpaceGridGet
+Peak
+Laplace Smooth
+Shuffle
+SampleNoise3D"
