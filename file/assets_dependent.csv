@@ -75,3 +75,7 @@ Peak
 Laplace Smooth
 Shuffle
 SampleNoise3D"
+differential_line,"SpaceGridSet
+SpaceGridGet
+Points2Line(G)
+n-Side"

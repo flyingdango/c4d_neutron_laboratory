@@ -2,6 +2,10 @@ you need reinstall/retarget "database.zip" file to open new project;
 if there is a project that doesn't work,please let me know on forum,thank you;
 https://www.c4dcafe.com/ipb/forums/topic/112112-some-references-for-scene-nodes/
 
+
+201013:
+add [differential_line]
+
 201012:
 clear&optimize old project/assets
 add assets_dependent.csv
