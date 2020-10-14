@@ -79,3 +79,8 @@ differential_line,"SpaceGridSet
 SpaceGridGet
 Points2Line(G)
 n-Side"
+slice,"Mul(G)
+PlaneCut
+ConnectLines
+Points2Line(2D)
+LineResample(C)"
