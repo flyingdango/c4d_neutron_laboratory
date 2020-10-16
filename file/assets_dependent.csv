@@ -84,3 +84,8 @@ PlaneCut
 ConnectLines
 Points2Line(2D)
 LineResample(C)"
+converge,"Sunflower
+LineResample
+Tracer(T)
+NumVaration
+SafeNormalize"
