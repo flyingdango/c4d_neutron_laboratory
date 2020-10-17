@@ -5,6 +5,7 @@ https://www.c4dcafe.com/ipb/forums/topic/112112-some-references-for-scene-nodes/
 
 201017:
 add [converge]
+add [fake_softbody_form]
 
 201014:
 add [slice]
