@@ -97,3 +97,8 @@ PushApart(M)
 SelfPair
 
 "
+dijkstra,"MoveOnePoint
+Index_2_1
+IndexMap
+IndexArray
+"
