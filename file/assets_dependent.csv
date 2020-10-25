@@ -115,3 +115,10 @@ Mul(G)
 HoleSquare
 SelectionByNormal
 RandomColor"
+labyrinth_3d,"RemoveDoublePt
+SpaceGridSet
+SpaceGridGet(1)
+Mul(G)
+IndexMap
+ConnectGeoArray
+RemoveDoubleFace(B)"
