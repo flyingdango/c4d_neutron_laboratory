@@ -3,6 +3,10 @@ if there is a project that doesn't work,please let me know on forum,thank you;
 https://www.c4dcafe.com/ipb/forums/topic/112112-some-references-for-scene-nodes/
 
 
+201113:
+fix [voxelize] for sp1 update
+other projects should works fine
+
 201026:
 add [labyrinth_3d]
 
