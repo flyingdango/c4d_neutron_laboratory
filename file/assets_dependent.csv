@@ -123,3 +123,12 @@ IndexMap
 ConnectGeoArray
 RemoveDoubleFace(B)"
 ex_201114,Mul(G)
+ex_201118,"InBox
+SelfPair
+n-Side
+Mul(G)
+Choice
+Points2Line(G)
+PointLineDistance
+
+"
