@@ -132,3 +132,6 @@ Points2Line(G)
 PointLineDistance
 
 "
+cube_210105,"Disconnect
+isPlanar
+Index_2_1"
